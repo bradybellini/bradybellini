@@ -1,6 +1,6 @@
-<p align="center">
+<p align="Left">
   <samp>
-    <a href="https://bradybellini.com">me</a>
+    yo
   </samp>
   <br>
   <img src="https://hits-app.vercel.app/hits?url=https://github.com/bradybellini" />
